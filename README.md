@@ -1,4 +1,4 @@
-# data-science-recipes
+# Data Science Recipes
 Data Science Recipes
 
 ## Guide to install MrBayes with Nvidia, Cuda, Beagle and MPI
