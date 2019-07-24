@@ -10,4 +10,4 @@ Cover also how to access and use MrBayes remotely without stop running process.
 
 ## Gists lessons
 Bilingual (English and Portuguese) series of gists lessons. All gists are publish to https://gist.github.com/jobdiogenes, and also as jupyter notebook (.ipynb) 
-1. [Index of this gists lessons](https://github.com/jobdiogenes/data-science-recipes/blob/master/gists/index.md)
+1. [Index](https://github.com/jobdiogenes/data-science-recipes/blob/master/gists/index.md)
