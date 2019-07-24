@@ -7,3 +7,7 @@ Recipes to deal with common tasks to work with Data Science
 This cover instructions to install on Ubuntu Linux 18.04, the latest version Nvidia Drivers and GPU Cuda support directly from Nvidia site, MPI Multiprocess and others required packages from ubuntu repository. 
 And Install the latest default (master) MrBayes and Beagle Library from git repository.
 Cover also how to access and use MrBayes remotely without stop running process.
+
+## Gists lessons
+Bilingual (English and Portuguese) series of gists lessons. All gists are available at https://gist.github.com/jobdiogenes, and also as jupyter notebook (.ipynb) 
+1. [Index of this gists lessons](https://github.com/jobdiogenes/data-science-recipes/blob/master/index.md)
