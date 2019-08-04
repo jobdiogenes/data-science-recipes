@@ -1,2 +1,2 @@
 # Data Science Recipes - Index
-1. Episode 1 - About, Python Basics
+1. Episódio 1 - Sobre, Python Básico [Visualizar](https://gist.github.com/jobdiogenes/a8d65fcabc8f8a47473769a9ba970fe0) - [Download](https://github.com/jobdiogenes/data-science-recipes/blob/master/gists/data-science-gist-01-pt.ipynb)
