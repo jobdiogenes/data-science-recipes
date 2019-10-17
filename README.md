@@ -8,7 +8,8 @@ This cover instructions to install on Ubuntu Linux 18.04, the latest version Nvi
 And Install the latest default (master) MrBayes and Beagle Library from git repository.
 Cover also how to access and use MrBayes remotely without stop running process.
 ## Image Processing 
-1. [Fiji/ ImageJ Macro Template to Stitiching all Images Pairs in a Directory](https://github.com/jobdiogenes/data-science-recipes)
+Usefull scripts to people dealing with image processing, mostly applied to biological science.
+1. [Fiji Scripts](https://github.com/jobdiogenes/data-science-recipes/blob/master/image-processing/fiji)
 ## Gists lessons
 Will be a Bilingual (Portuguese and English - later) series of gists lessons. All gists are publish to https://gist.github.com/jobdiogenes, and also as jupyter notebook (.ipynb) 
 1. [Index](https://github.com/jobdiogenes/data-science-recipes/blob/master/gists/index.md)
