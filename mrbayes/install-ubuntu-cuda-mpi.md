@@ -10,7 +10,7 @@ I don't have a AMD card. When I get one in hand I will make the install adjustme
 ## 1. Install basic libaries
 ```sh
 sudo apt-get install -y libtool autoconf make g+ git libread line-dev build-essential doxygen git
-sudo apt-get install -y open-jdk
+sudo apt-get install -y default-jdk
 sudo apt-get install -y ocl-icd-opencl-dev pocl-opencl-icd opencl-headers
 sudo apt-get install -y openmpi-bin openmpi-doc libopenmpi-dev 
 sudo apt-get install -y libmpich-mpd1.0-dev libmpich-shmem1.0-dev libmpich1.0-dev libblacs-mpi-dev
