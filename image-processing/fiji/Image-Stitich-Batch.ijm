@@ -1,21 +1,22 @@
 /*
- * Macro template to process multiple images in a folder
+ * Fiji/ ImageJ Macro to Stitiching all Images Pairs in a Directory
  *
  *  Author: Job Diogenes Ribeiro Borges
  *  Licence: GPL 3 - https://www.gnu.org/licenses/gpl-3.0
  *  URL: https://github.com/jobdiogenes/data-science-recipes/tree/master/image-processing/fiji/
- *  Citation: 
-
+ *  If this macro was usefull to your research please
+ *  Cite as (APA): Borges, J. D. R. (2016). Fiji/ ImageJ Macro to Stitiching all Images Pairs in a Directory. GitHub. https://github.com/data-science-recipes
+ *  Or copy and add the following Bibtex entry to your Bibliograph manager
 -- Bitex.
  
 @misc{BorgesJDR2016,
-   author = {Borges, J.D.R.},
-   title = {Fiji/ ImageJ Macro to Stitiching all Images Pairs in a Directory},
-   year = {2016},
-   publisher = {GitHub},
-   journal = {GitHub repository},
-   howpublished = {\url{https://github.com/data-science-recipes}},
-   commit = {555}
+  @misc{Borges2016,
+  author = {Borges, Job Di{\'{o}}genes Ribeiro},
+  keywords = {Fiji,Image Processing,ImageJ},
+  publisher = {GitHub},
+  title = {{Fiji/ ImageJ Macro to Stitiching all Images Pairs in a Directory}},
+  url = {https://github.com/data-science-recipes},
+  year = {2016}
 }
 
 -- 
