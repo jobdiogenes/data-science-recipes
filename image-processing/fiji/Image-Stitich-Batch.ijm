@@ -3,17 +3,18 @@
  *
  *  Author: Job Diogenes Ribeiro Borges
  *  Licence: GPL 3 - https://www.gnu.org/licenses/gpl-3.0
+ *  URL: https://github.com/jobdiogenes/data-science-recipes/tree/master/image-processing/fiji/
  *  Citation: 
 
 -- Bitex.
  
 @misc{BorgesJDR2016,
    author = {Borges, J.D.R.},
-   title = {Fiji/ ImageJ Macro Template to Stitiching all Images Pairs in a Directory},
+   title = {Fiji/ ImageJ Macro to Stitiching all Images Pairs in a Directory},
    year = {2016},
    publisher = {GitHub},
    journal = {GitHub repository},
-   howpublished = {\url{https://github.com/charlespwd/project-title}},
+   howpublished = {\url{https://github.com/data-science-recipes}},
    commit = {555}
 }
 
