@@ -11,5 +11,5 @@ Cover also how to access and use MrBayes remotely without stop running process.
 Usefull scripts to people dealing with image processing, mostly applied to biological science.
 1. [Fiji Scripts](https://github.com/jobdiogenes/data-science-recipes/blob/master/image-processing/fiji)
 ## Gists lessons
-Will be a Bilingual (Portuguese and English - later) series of gists lessons. All gists are publish to https://gist.github.com/jobdiogenes, and also as jupyter notebook (.ipynb) 
+Portuguese series of gists lessons. All gists are publish to https://gist.github.com/jobdiogenes, and also as jupyter notebook (.ipynb) 
 1. [Index](https://github.com/jobdiogenes/data-science-recipes/blob/master/gists/index.md)
